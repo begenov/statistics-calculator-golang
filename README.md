@@ -47,4 +47,4 @@ If you find a bug or have a suggestion for a new feature, please open an issue i
 
 ### Author 
 
-[Begenov Orazali](https://web.telegram.org/k/)
+[Begenov Orazali](@orazalibegenov)
