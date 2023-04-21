@@ -44,7 +44,3 @@ Standard Deviation: 65
 ### Contributing
 
 If you find a bug or have a suggestion for a new feature, please open an issue in the repository. Pull requests are also welcome.
-
-### Author 
-
-[Begenov Orazali](@orazalibegenov)
